@@ -1,0 +1,17 @@
+
+
+.column{
+width: 100%;
+display: flex;
+justify-content: center;
+align-items: center;
+}
+.login_card{
+    width: 100%;
+    text-align: center;
+    background: linear-gradient(135deg, #4441ff, #ffffff);
+}
+.login_card:hover{
+    transform: scale(1.05);
+}
+

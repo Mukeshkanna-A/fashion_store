@@ -1,0 +1,12 @@
+.designs_container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.design_card{
+    background: linear-gradient(135deg, #4441ff, #ffffff);
+    border-radius: 2rem;
+}
+.design_card:hover{
+    transform: scale(1.05);
+}
