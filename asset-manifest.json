@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/fashion-store/static/css/main.983b5823.css",
+    "main.js": "/fashion-store/static/js/main.aa512c6a.js",
+    "static/media/Home_img.jpg": "/fashion-store/static/media/Home_img.63495935e947a06e4e65.jpg",
+    "static/media/dressmaker.png": "/fashion-store/static/media/dressmaker.3cb97cc008ae567ce5f1.png",
+    "static/media/fashion-designer.png": "/fashion-store/static/media/fashion-designer.74f12d65b6f8c1056c67.png",
+    "static/media/fashiondesign.png": "/fashion-store/static/media/fashiondesign.66d7fed29fe4ee3f5b2c.png",
+    "static/media/clothes.png": "/fashion-store/static/media/clothes.5493dc07aba0b9b7e671.png",
+    "index.html": "/fashion-store/index.html",
+    "main.983b5823.css.map": "/fashion-store/static/css/main.983b5823.css.map",
+    "main.aa512c6a.js.map": "/fashion-store/static/js/main.aa512c6a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.983b5823.css",
+    "static/js/main.aa512c6a.js"
+  ]
+}
